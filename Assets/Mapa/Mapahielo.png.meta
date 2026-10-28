@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 87cd485cc1708d34f8587ed0dc66e5a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6459265053313685136
+    second: Mapahielo_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mapahielo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079a42b18a41c56a0800000000000000
+      internalID: -6459265053313685136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 808
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3e305c03fae1647be86f034a194218
+      internalID: 392250664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 808
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af2c105318d47b48b78ce644ed9c0ab
+      internalID: 1508511918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 808
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db485721e96f4742bf9fb73f1e0330f
+      internalID: -760161316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 808
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78029ea4fa37bf64fad786f73d285dd2
+      internalID: -1147728612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 808
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d02e4651dcf02f4fbb3df2b4245f923
+      internalID: -1750296082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 808
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302ee202eaedeb144b5d98f2a950679b
+      internalID: 1159854423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 808
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61db571ab9378c94fb43cb59e0822926
+      internalID: 1643891688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 808
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe9ddcccac32754a8fc721e59bd0417
+      internalID: -673294917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 808
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8485952e51767eb4d890d9fd3b57da4a
+      internalID: -2021469129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60e43611559a2f4ebf6cc634ad6ab86
+      internalID: -18028480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 645
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa3df0162f1ec44981436105c5878da
+      internalID: 1214267843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 645
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2836f8fcd25a84c9c157e6a1748571
+      internalID: 343348388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 645
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098895179b1bba24a8b2278a934d05d7
+      internalID: 318824938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_14
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 645
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7677f6cd102e0f5428a8c6d3c7cb4fa0
+      internalID: 1387655756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 645
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f34c4af1f38c5d46a7cf71d333db675
+      internalID: -358845129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_16
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 645
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1f5bfa644fb5d419f151c8b8302c9f
+      internalID: 749257315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_17
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 645
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5c4d46b2e434646846dc18756e45e4
+      internalID: 702043191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_18
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 645
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da168f58126621b469079af8a9a0db87
+      internalID: 984368860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 645
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0661ec965dda72e42a69b7a12bc28c66
+      internalID: 544839237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8e2d5abe65d1942b383bdf22a90d10
+      internalID: -444283290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 482
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b193e075201e34e9a25620a65f9e35
+      internalID: 1768885324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 482
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f59505480f603140bf843f222f42b39
+      internalID: 1505570686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 482
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc24711862091a4e85792d189036919
+      internalID: 1007948744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 482
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321a09813685c9e458834e30212cfbd3
+      internalID: -1308692081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 482
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562f0bf0844565445813a957451e2ceb
+      internalID: 411925956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_26
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 482
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cca6fbac8a90d40b27dd4294d55e84
+      internalID: -1289222529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_27
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 482
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6aaaab24d6bf14f834e0d348de3b43
+      internalID: -1761981871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_28
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 482
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa1936102214045b77619a4a8f205e
+      internalID: -985636138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 482
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca0c6816f0736343a89d2a814ce951c
+      internalID: 1844344615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbe2717c054d4141a2ad059de86766b
+      internalID: 349703138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 319
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b5b3cfc8e214040aaff48b1f3d2bef
+      internalID: -430578231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 319
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3828d26e34e8e4994a742c8c886e73
+      internalID: -541829762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 319
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52698ac9aa8cb04f8fbcbb0742b9631
+      internalID: -815215439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 319
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891ba5a45bfc76d4b8f5465e3016ad29
+      internalID: -1900516807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_35
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 319
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b064665226895eb42b6bfea92ce118fa
+      internalID: 1261090109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_36
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 319
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0445ea6de08e241468ca550b3412e080
+      internalID: 851622387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_37
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 319
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eebac21aefd103408747a871bb51d3e
+      internalID: 652325675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 319
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364d8025d4790fa459b4541c3c236c1d
+      internalID: -1654419544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_39
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 319
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f2d88bf07a1d442af61e90cc345095
+      internalID: 1847622666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571660c58c168294da43463861b18c28
+      internalID: 1271035838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf74df485922814aa66e1f07a88bdf2
+      internalID: 550909894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 156
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca97615d24c3f846b8a11add8e9a19b
+      internalID: 1593154200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 156
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089eaa1ed98325347a6e29f789169923
+      internalID: 1994703710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 156
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b26f5b7655663447810eb0e2d01587f
+      internalID: -1505568121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_45
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 156
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3034c6830d3608343acc09d3817a7c04
+      internalID: -668066544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_46
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 156
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f28bc7302b455428c051615f2e7634
+      internalID: -91311965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_47
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 156
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d0978c8e9610549bf7a5936e10c73c
+      internalID: 1075482129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_48
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 156
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45300da76146814499aca88d3a7af1ad
+      internalID: 617113652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapahielo_49
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 156
+        width: 160
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102936ec08997cd4fba69df837eda671
+      internalID: -1749069075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb6a960090c0183448f38e43c473f480
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":160.0,"y":163.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mapahielo_0: -6459265053313685136
+      Mapahielo_1: 392250664
+      Mapahielo_10: -18028480
+      Mapahielo_11: 1214267843
+      Mapahielo_12: 343348388
+      Mapahielo_13: 318824938
+      Mapahielo_14: 1387655756
+      Mapahielo_15: -358845129
+      Mapahielo_16: 749257315
+      Mapahielo_17: 702043191
+      Mapahielo_18: 984368860
+      Mapahielo_19: 544839237
+      Mapahielo_2: 1508511918
+      Mapahielo_20: -444283290
+      Mapahielo_21: 1768885324
+      Mapahielo_22: 1505570686
+      Mapahielo_23: 1007948744
+      Mapahielo_24: -1308692081
+      Mapahielo_25: 411925956
+      Mapahielo_26: -1289222529
+      Mapahielo_27: -1761981871
+      Mapahielo_28: -985636138
+      Mapahielo_29: 1844344615
+      Mapahielo_3: -760161316
+      Mapahielo_30: 349703138
+      Mapahielo_31: -430578231
+      Mapahielo_32: -541829762
+      Mapahielo_33: -815215439
+      Mapahielo_34: -1900516807
+      Mapahielo_35: 1261090109
+      Mapahielo_36: 851622387
+      Mapahielo_37: 652325675
+      Mapahielo_38: -1654419544
+      Mapahielo_39: 1847622666
+      Mapahielo_4: -1147728612
+      Mapahielo_40: 1271035838
+      Mapahielo_41: 550909894
+      Mapahielo_42: 1593154200
+      Mapahielo_43: 1994703710
+      Mapahielo_44: -1505568121
+      Mapahielo_45: -668066544
+      Mapahielo_46: -91311965
+      Mapahielo_47: 1075482129
+      Mapahielo_48: 617113652
+      Mapahielo_49: -1749069075
+      Mapahielo_5: -1750296082
+      Mapahielo_6: 1159854423
+      Mapahielo_7: 1643891688
+      Mapahielo_8: -673294917
+      Mapahielo_9: -2021469129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
